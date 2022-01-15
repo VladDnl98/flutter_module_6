@@ -1,11 +1,8 @@
-// ignore_for_file: sized_box_for_whitespace, avoid_print, override_on_non_overriding_member
+// ignore_for_file: sized_box_for_whitespace, avoid_print
 import 'package:flutter/material.dart';
 
 class ListGridExample extends StatefulWidget {
   const ListGridExample({Key? key}) : super(key: key);
-
-  // @override
-  // _ListGridExampleState get CreateState => _ListGridExampleState();
 
   @override
   State<StatefulWidget> get createState => _ListGridExampleState();
