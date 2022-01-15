@@ -1,3 +1,5 @@
+// ignore_for_file: sized_box_for_whitespace, override_on_non_overriding_member, avoid_print, prefer_const_constructors_in_immutables, prefer_const_constructors, unused_import
+
 import 'package:flutter/material.dart';
 import 'package:flutter_module_6/example_list_grid.dart';
 
